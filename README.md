@@ -72,9 +72,9 @@ return ans
 
 ---
 
-### 🔹 [Collaborator 3: Your Name]
+### 🔹 [Collaborator 3: Dhanush P]
 - **Problem Statement:**
-  _[Describe the problem in a concise manner.]_
+  Find the element that appears the most in an array.
 - **Approach:**
   _[Explain the solution approach with code snippets if necessary.]_
 
