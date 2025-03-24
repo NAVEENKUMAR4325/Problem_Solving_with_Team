@@ -1,4 +1,5 @@
-## Name: Naveen Kumar E
+## Name: Naveen Kumar E (212222220029)
+## Dept: BTech IT
 ## Date: 24/3/2025
 
 # Count Available Workdays
