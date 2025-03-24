@@ -96,6 +96,7 @@ The solution fetches real-time exchange rates from an external API.
 It calculates the converted amount by multiplying the input amount by the exchange rate.
 
 It interacts with the user for input and displays the result of the currency conversion.
+
 ---
 
 ### 🔹 [Collaborator 3: Dhanush P]
