@@ -80,11 +80,11 @@ return ans
 
 ---
 
-### 🔹 [Collaborator 4: Your Name]
+### 🔹 [Collaborator 4: Prasanth U]
 - **Problem Statement:**
-  _[Describe the problem in a concise manner.]_
+  Write a Java program to merge two sorted ArrayLists into a single sorted list.
 - **Approach:**
-  _[Explain the solution approach with code snippets if necessary.]_
+  Merging the array using Merge Function
 
 ---
 
