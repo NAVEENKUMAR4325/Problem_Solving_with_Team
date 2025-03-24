@@ -70,3 +70,36 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
+## Processing:
+API Request: The program makes an HTTP request to the exchange rate API.
+
+Exchange Rate: For example, if the exchange rate from USD to EUR is 0.85, the conversion is calculated as:
+
+100 USD * 0.85 = 85 EUR
+
+## Output: The program prints:
+
+100 USD is equivalent to 85.00 EUR
+
+## Final Output:
+
+```
+100 USD is equivalent to 85.00 EUR
+```
+
+## Complexity Analysis
+
+### Time Complexity:
+
+O(1) for fetching the exchange rate and performing the conversion.
+
+The time complexity for making the API request is dependent on the network speed but is typically considered constant in most scenarios.
+
+### Space Complexity:
+
+O(1) since only a few variables are used to store the exchange rate and conversion result.
+
+## Summary
+This program allows users to easily convert amounts between different currencies using live exchange rates. It fetches real-time exchange data from an API and performs the necessary conversion calculation, ensuring accuracy in the results.
+
