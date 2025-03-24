@@ -64,12 +64,38 @@ return ans
 
 ---
 
-### 🔹 [Collaborator 2: Your Name]
-- **Problem Statement:**
-  _[Describe the problem in a concise manner.]_
-- **Approach:**
-  _[Explain the solution approach with code snippets if necessary.]_
 
+### 🔹 [Collaborator 2: Dhinesh Raj M]
+- **Problem Statement:**
+  to create a currency converter program that allows users to convert an amount from one currency to another using real-time exchange rates. The program takes user input for the source currency, target currency, and the amount to be converted, then retrieves the exchange rate from an online API and performs the conversion, displaying the result.
+- **Approach:**
+  The goal is to convert an amount from one currency to another using real-time exchange rates fetched from an external API. The solution involves the following steps:
+
+### Fetch Exchange Rates:
+
+The program retrieves the latest exchange rates using a free API, such as ExchangeRate-API.
+
+The API provides exchange rates for various currencies with respect to a base currency (USD by default).
+
+### User Input:
+
+The user inputs the amount to be converted, the source currency (e.g., USD), and the target currency (e.g., EUR).
+
+### Calculate the Conversion:
+
+Once the exchange rate is fetched, the program multiplies the input amount by the exchange rate to obtain the converted amount.
+
+### Output the Result:
+
+The program then prints the result of the conversion, showing how much the amount is in the target currency.
+
+### Summary of Approach:
+
+The solution fetches real-time exchange rates from an external API.
+
+It calculates the converted amount by multiplying the input amount by the exchange rate.
+
+It interacts with the user for input and displays the result of the currency conversion.
 ---
 
 ### 🔹 [Collaborator 3: Dhanush P]
