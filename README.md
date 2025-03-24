@@ -76,7 +76,7 @@ return ans
 - **Problem Statement:**
   Find the element that appears the most in an array.
 - **Approach:**
-  _[Explain the solution approach with code snippets if necessary.]_
+  Frequently occuring number in array using Hashmap
 
 ---
 
