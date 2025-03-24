@@ -5,15 +5,15 @@ Welcome to the **Collaborative Problem Solving Repository**! 🚀 This repositor
 ## 📋 How to Contribute
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-link.git
+   https://github.com/NAVEENKUMAR4325/Problem_Solving_with_Team
    ```
 2. Navigate to the repository:
    ```sh
-   cd your-repo-name
+   cd Problem_Solving_with_Team
    ```
 3. Create a new branch for your contribution:
    ```sh
-   git checkout -b your-name-problem
+   git checkout -b NaveenKumarE.md
    ```
 4. Add your problem statement and approach under your name in this README file.
 5. Commit your changes:
@@ -23,7 +23,7 @@ Welcome to the **Collaborative Problem Solving Repository**! 🚀 This repositor
    ```
 6. Push your branch:
    ```sh
-   git push origin your-name-problem
+   git push origin NaveenKumarE.md
    ```
 7. Create a **Pull Request** and request a review from other collaborators.
 
